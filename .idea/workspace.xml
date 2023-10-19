@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53f354da-3f4a-4fa6-8f2c-67c80b7da3cc" name="Changes" comment="">
+    <list default="true" id="53f354da-3f4a-4fa6-8f2c-67c80b7da3cc" name="Changes" comment="New Classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -87,6 +88,18 @@
       <option name="presentableId" value="Default" />
       <updated>1697618882471</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Classes">
+      <created>1697714367641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697714367641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Classes" />
   </component>
 </project>
